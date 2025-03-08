@@ -77,16 +77,16 @@ The dataset includes **2023 transactional records** from three regions and five 
 Below are key Power BI dashboards used in the analysis:
 
 ### **Sales Performance Dashboard**
-![Sales Performance](images/sales_performance_dashboard.png)
+![Sales Performance](Images/sales_performance_dashboard.png)
 
 ### **Customer Insights Dashboard**
-![Customer Insights](images/customer_insights_dashboard.png)
+![Customer Insights](Images/customer_insights_dashboard.png)
 
 ### **Inventory & Profitability Dashboard**
-![Inventory Dashboard](images/inventory_dashboard.png)
+![Inventory Dashboard](Images/inventory_dashboard.png)
 
 ### **Market Expansion Dashboard**
-![Market Expansion](images/market_expansion_dashboard.png)
+![Market Expansion](Images/market_expansion_dashboard.png)
 
 ## Tools Used
 - **Power BI**: Used for data visualization and dashboard creation.
