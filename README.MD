@@ -102,3 +102,6 @@ Below are key Power BI dashboards used in the analysis:
 ---
 
 This analysis provides a **data-driven strategy for Techtronix Innovations** to optimize sales, enhance profitability, and expand into new markets. By leveraging insights from transactional data, the company can refine its operations and drive long-term growth.
+
+You can download the **Techtronix Market & Sales Analysis** PowerPoint presentation here:  
+📂 [Techtronix_Analysis.pptx](Techtronix_Analysis.pptx)
