@@ -45,7 +45,7 @@ The dataset includes **2023 transactional records** from three regions and five 
   - **Highest revenue months:** April ($23.2M) & August ($22.4M).
   - **Lowest revenue month:** May ($18.7M).
 
-📌 **Recommendation:** Expand microchip sales while optimizing margins for Robotics & Sensors.
+**Recommendation:** Expand microchip sales while optimizing margins for Robotics & Sensors.
 
 ### **Customer Insights**
 - **Revenue by Sector:**
@@ -54,14 +54,14 @@ The dataset includes **2023 transactional records** from three regions and five 
   - USA leads in Industrial sector sales ($19.22M), while China and Japan dominate in Consumer Electronics.
   - South Korea has the lowest revenue at $49.2M.
 
-📌 **Recommendation:** Strengthen North America Consumer Electronics and expand Automotive sector in China.
+**Recommendation:** Strengthen North America Consumer Electronics and expand Automotive sector in China.
 
 ### **Inventory Optimization & Profitability**
 - **Total Revenue vs. Profit Margin:**
   - Industrial sector generates the highest revenue ($89M) but has lower profit margins.
   - Microchips peak in Q1, while Robotics sales are strongest in Q3.
 
-📌 **Recommendation:** Optimize high-cost product production and adjust sales strategies in Q3 & Q4.
+**Recommendation:** Optimize high-cost product production and adjust sales strategies in Q3 & Q4.
 
 ### **Market Expansion**
 - **Total Profit by Region:**
@@ -71,7 +71,7 @@ The dataset includes **2023 transactional records** from three regions and five 
   **USA** has the highest total profit ($1.05M), which suggests that its operations are more cost-efficient compared to other regions.
   - **Japan** has the lowest revenue ($3.67M), indicating weaker market penetration.
 
-📌 **Recommendation:** Strengthen the supply chain in South Korea and enhance cost efficiency in Germany.
+**Recommendation:** Strengthen the supply chain in South Korea and enhance cost efficiency in Germany.
 
 ## Visualizations
 Below are key Power BI dashboards used in the analysis:
